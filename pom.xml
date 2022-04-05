@@ -6,7 +6,12 @@
 
   <groupId>com.crpdev.mds-app</groupId>
   <artifactId>mds-app</artifactId>
+  <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
+
+  <modules>
+    <module>customer</module>
+  </modules>
 
   <name>mds-app</name>
   <url>https://github.com/crpdev</url>
